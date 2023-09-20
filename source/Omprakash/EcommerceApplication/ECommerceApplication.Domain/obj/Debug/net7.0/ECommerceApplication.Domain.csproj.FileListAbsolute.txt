@@ -1,0 +1,11 @@
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\bin\Debug\net7.0\ECommerceApplication.Domain.deps.json
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\bin\Debug\net7.0\ECommerceApplication.Domain.dll
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\bin\Debug\net7.0\ECommerceApplication.Domain.pdb
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.dll
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\refint\ECommerceApplication.Domain.dll
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ECommerceApplication.Domain.pdb
+C:\Users\DELL\source\Omprakash\EcommerceApplication\ECommerceApplication.Domain\obj\Debug\net7.0\ref\ECommerceApplication.Domain.dll
